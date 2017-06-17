@@ -18,3 +18,4 @@
 /bin/deploy filter=lfs diff=lfs merge=lfs -text
 /LICENSE filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+/Gemfile filter=lfs diff=lfs merge=lfs -text
