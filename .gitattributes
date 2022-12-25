@@ -28,3 +28,4 @@
 *.all-contributorsrc filter=lfs diff=lfs merge=lfs -text
 /Dockerfile filter=lfs diff=lfs merge=lfs -text
 *.sh filter=lfs diff=lfs merge=lfs -text
+*.yaml filter=lfs diff=lfs merge=lfs -text
